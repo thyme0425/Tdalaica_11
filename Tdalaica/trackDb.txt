@@ -50,3 +50,113 @@ noInherit on
         color 0,0,0
         type bigBed 12 .
         bigDataUrl Tdalaica_11.Tscler-01F.bigBed
+
+	track Comparative_Tstewa-01M
+        parent Comparative
+        longLabel Tstewa-01M cactus alignment
+        shortLabel Tstewa-01M alignment
+        priority 3
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tstewa-01M.bigBed
+
+	track Comparative_Tstrau-02F
+        parent Comparative
+        longLabel Tstrau-02F cactus alignment
+        shortLabel Tstrau-02F alignment
+        priority 4
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tstrau-02F.bigBed
+
+	track Comparative_Ttenui-01F
+        parent Comparative
+        longLabel Ttenui-01F cactus alignment
+        shortLabel Ttenui-01F alignment
+        priority 5
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Ttenui-01F.bigBed
+
+	track Comparative_Tbleekeri
+        parent Comparative
+        longLabel Tbleekeri cactus alignment
+        shortLabel Tbleekeri alignment
+        priority 6
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tbleekeri.bigBed
+
+	track Comparative_Tsiluroides
+        parent Comparative
+        longLabel Tsiluroides cactus alignment
+        shortLabel Tsiluroides alignment
+        priority 7
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tsiluroides.bigBed
+
+	track Comparative_Tstenu-01M
+        parent Comparative
+        longLabel Tstenu-01M cactus alignment
+        shortLabel Tstenu-01M alignment
+        priority 8
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tstenu-01M.bigBed
+
+	track Comparative_Taltic-02M
+        parent Comparative
+        longLabel Taltic-02M cactus alignment
+        shortLabel Taltic-02M alignment
+        priority 9
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Taltic-02M.bigBed
+
+	track Comparative_Tbrevi-01F
+        parent Comparative
+        longLabel Tbrevi-01F cactus alignment
+        shortLabel Tbrevi-01F alignment
+        priority 10
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tbrevi-01F.bigBed
+
+	track Comparative_Tlepto-01F
+        parent Comparative
+        longLabel Tlepto-01F cactus alignment
+        shortLabel Tlepto-01F alignment
+        priority 11
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tlepto-01F.bigBed
+
+	track Comparative_Trosa-01F
+        parent Comparative
+        longLabel Trosa-01F cactus alignment
+        shortLabel Trosa-01F alignment
+        priority 12
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Trosa-01F.bigBed
+
+	track Comparative_Tstoli-01F
+        parent Comparative
+        longLabel Tstoli-01F cactus alignment
+        shortLabel Tstoli-01F alignment
+        priority 13
+        visibility full
+        color 0,0,0
+        type bigBed 12 .
+        bigDataUrl Tdalaica_11.Tstoli-01F.bigBed
