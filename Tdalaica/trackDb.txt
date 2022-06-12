@@ -2,11 +2,22 @@ track assembly
 longLabel T. dalaica assembly
 shortLabel Assembly
 group Mapping
-priority 10
+priority 9
 visibility full
 color 60,60,60
 bigDataUrl Tdalaica_11.assembly.bigBed
 type bigBed 6 .
+
+
+track Tstrau_map
+longLabel Tstrau-02F Illumina read mapping
+shortLabel Tstrau-02F mapping
+group Mapping
+priority 10
+visibility full
+color 120,120,120
+bigDataUrl Tstrau-02F.sort.rmdup.mapped.rename.bam
+type bam
 
 
 track Genes
