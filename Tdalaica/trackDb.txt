@@ -16,8 +16,12 @@ group Mapping
 priority 10
 visibility full
 color 120,120,120
-bigDataUrl Tstrau-02F.sort.rmdup.mapped.rename.sort.bigBed
-type bigBed 12 .
+bigDataUrl Tstrau-02F.sort.rmdup.mapped.rename.recoordinate.bam
+type bam
+showNames off
+doWiggle on
+minAliQual 30
+bigDataIndex Tstrau-02F.sort.rmdup.mapped.rename.recoordinate.bam.bai
 
 
 track Genes
